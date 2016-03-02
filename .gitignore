@@ -1,0 +1,10 @@
+# MODIFIY THIS
+my-awesome-stack-back
+my-awesome-stack-front
+
+# Common
+node_modules
+bower_components
+
+##IDE
+.idea
